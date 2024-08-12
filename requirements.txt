@@ -1,0 +1,4 @@
+tiktoken 
+numpy
+openai
+python-dotenv
