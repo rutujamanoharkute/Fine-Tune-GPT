@@ -123,8 +123,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Special thanks to [Hugging Face](https://huggingface.co/) and the OpenAI community for their tools and support.
-- Thanks to contributors and testers who helped refine the RecipeMaster chatbot.
+ OpenAI community for their tools and support.
+
 ```
 
 This README file is structured to reflect the process and content of your Jupyter notebook, guiding users through setup, fine-tuning, and usage of the GPT model. Adjust any section as needed to fit your project specifics.
